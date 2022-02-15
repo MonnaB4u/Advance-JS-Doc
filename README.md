@@ -27,10 +27,11 @@ console.log(`My ID number is ${numbers[3]},My name is ${Student.name} , Age ${St
 ```
  *** normal function is look like
 
-function Student(){
+ ****  function Student(){
 
-return 0
-}
+        return 0
+          
+          }
 
  *** Arrow function look like this :-
 
